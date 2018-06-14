@@ -1,0 +1,9 @@
+C:\Users\f.isfarca\Desktop\RandomGenerator\RandomGenerator\bin\Release\RandomGenerator.exe.config
+C:\Users\f.isfarca\Desktop\RandomGenerator\RandomGenerator\bin\Release\RandomGenerator.exe
+C:\Users\f.isfarca\Desktop\RandomGenerator\RandomGenerator\bin\Release\RandomGenerator.pdb
+C:\Users\f.isfarca\Desktop\RandomGenerator\RandomGenerator\obj\Release\RandomGenerator.FormMain.resources
+C:\Users\f.isfarca\Desktop\RandomGenerator\RandomGenerator\obj\Release\RandomGenerator.Properties.Resources.resources
+C:\Users\f.isfarca\Desktop\RandomGenerator\RandomGenerator\obj\Release\RandomGenerator.csproj.GenerateResource.cache
+C:\Users\f.isfarca\Desktop\RandomGenerator\RandomGenerator\obj\Release\RandomGenerator.csproj.CoreCompileInputs.cache
+C:\Users\f.isfarca\Desktop\RandomGenerator\RandomGenerator\obj\Release\RandomGenerator.exe
+C:\Users\f.isfarca\Desktop\RandomGenerator\RandomGenerator\obj\Release\RandomGenerator.pdb
